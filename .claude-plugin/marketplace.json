@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "korean-ip-skills",
+  "description": "AI-agent skills for Korean patent and trademark practice, maintained by ABC IP LAW.",
+  "owner": {
+    "name": "ABC IP LAW"
+  },
+  "plugins": [
+    {
+      "name": "korean-ip",
+      "displayName": "Korean IP Practice",
+      "source": "./korean-ip",
+      "description": "Reusable AI-agent workflows for Korean patent and trademark practice, with source verification, scope control, and human-review gates.",
+      "author": {
+        "name": "ABC IP LAW"
+      }
+    }
+  ]
+}
