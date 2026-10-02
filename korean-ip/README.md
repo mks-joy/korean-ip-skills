@@ -17,5 +17,6 @@ This directory contains the installable Claude Code plugin.
 - `change-control` — reviewed
 - `source-verification` — reviewed
 - `skill-auditor` — draft
+- `invention-intake` — draft (official Korean source register added; test/review still pending)
 
-Substantive Korean patent/trademark workflows will be added only after source review.
+Substantive Korean patent/trademark workflows move to reviewed status only after source and behavior review.
