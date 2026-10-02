@@ -16,7 +16,7 @@ This file is the public roadmap and review register.
 | change-control | Core | Reviewed | Prevent an agent from changing anything outside the requested scope and require a post-change diff check |
 | source-verification | Core | Reviewed | Prevent unsupported factual/legal supplementation and require provenance labeling |
 | skill-auditor | Core | Draft | Review third-party or newly authored skills for trust surface, scope, freshness, conflicts, and hidden instructions |
-| invention-intake | Patent | Planned | Structured Korean patent invention intake and missing-fact detection |
+| invention-intake | Patent | Draft | Structured Korean patent invention intake, disclosure/timing triage, candidate-concept separation, detectability, and prior-art-search handoff |
 | prior-art-analysis | Patent | Planned | Source-grounded prior-art comparison and novelty/inventive-step issue spotting |
 | claim-strategy | Patent | Planned | Identify protection targets and claim architecture before drafting |
 | claim-drafting | Patent | Planned | Korean patent claim drafting with dependency/support consistency checks |
