@@ -11,9 +11,11 @@ last_verified: 2026-10-02
 freshness_window: 6 months
 freshness_category: regulatory
 verified_against:
-  - https://www.law.go.kr/lsSc.do
-  - https://kipo.go.kr/ko/kpoContentView.do
-  - https://www.kipo.go.kr/ko/kpoContentView.do
+  - https://law.go.kr/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000689891
+  - https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1029338489
+  - https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1030488715
+  - https://kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0200146
+  - https://www.kipo.go.kr/ko/kpoContentView.do?menuCd=SCD0200147
 ---
 
 # Korean Patent Invention Intake
@@ -37,6 +39,8 @@ Before relying on a legal-rule-bearing part of this workflow, read:
 `../../references/korean-patent-invention-intake-sources.md`
 
 If the freshness window has expired, or a current filing/deadline decision depends on the rule, verify the current official source before using the rule.
+
+When the output invokes a legal rule such as Patent Act Article 30 or Article 36, identify the rule and state that the bundled source register was last verified on 2026-10-02. Do not present a legal-rule conclusion as an uncited background fact.
 
 ## Inputs
 
