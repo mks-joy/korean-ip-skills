@@ -21,7 +21,7 @@ This file is the public roadmap and review register.
 | claim-strategy | Patent | Planned | Identify protection targets and claim architecture before drafting |
 | claim-drafting | Patent | Planned | Korean patent claim drafting with dependency/support consistency checks |
 | specification-drafting | Patent | Planned | Specification drafting workflow with support and terminology checks |
-| oa-analysis | Patent | Planned | Analyze KIPO Office Actions, cited references, and response options |
+| oa-analysis | Patent | Draft | Decompose Korean OA grounds by claim, map cited references, separate Article 42 issues, and verify amendment basis before response drafting |
 | oa-response | Patent | Planned | Draft amendment/argument options with specification-basis verification |
 | fto-claim-chart | Patent | Planned | Element-by-element FTO mapping with status and evidence tracking |
 | trademark-clearance | Trademark | Planned | Korean trademark first-pass conflict analysis |
