@@ -18,9 +18,9 @@ This file is the public roadmap and review register.
 | skill-auditor | Core | Draft | Review third-party or newly authored skills for trust surface, scope, freshness, conflicts, and hidden instructions |
 | invention-intake | Patent | Draft | Structured Korean patent invention intake, disclosure/timing triage, candidate-concept separation, detectability, and prior-art-search handoff |
 | prior-art-analysis | Patent | Planned | Source-grounded prior-art comparison and novelty/inventive-step issue spotting |
-| claim-strategy | Patent | Planned | Identify protection targets and claim architecture before drafting |
-| claim-drafting | Patent | Planned | Korean patent claim drafting with dependency/support consistency checks |
-| specification-drafting | Patent | Planned | Specification drafting workflow with support and terminology checks |
+| claim-strategy | Patent | Draft | Define protection target, candidate claim subjects, independent architectures, fallback ladder, unity flags, and description-support plan before wording claims |
+| claim-drafting | Patent | Draft | Draft supported independent/dependent claims, validate Enforcement Decree Article 5 dependencies, and audit terminology/source support |
+| specification-drafting | Patent | Draft | Draft an enabling, support-rich specification with fallback preservation, claim-support matrix, and terminology consistency audit |
 | oa-analysis | Patent | Draft | Decompose Korean OA grounds by claim, map cited references, separate Article 42 issues, and verify amendment basis before response drafting |
 | oa-response | Patent | Planned | Draft amendment/argument options with specification-basis verification |
 | fto-claim-chart | Patent | Draft | Korean claim-first FTO/infringement triage with operative-claim lock, source-pinned element mapping, status uncertainty, and separate legal flags |
